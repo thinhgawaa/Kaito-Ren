@@ -11,7 +11,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
 
 ## NỘI QUY VỀ CÁCH CƯ XỬ ( ÁP DỤNG CÓ CẢ MEN LẦN BQT ) 
- - Không được gân war với nhau
+ - Không được gây war với nhau
 
 ## NỘI QUY ĐĂNG BÀI VIẾT
 
